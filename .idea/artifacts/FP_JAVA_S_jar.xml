@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FP-JAVA-S:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FP_JAVA_S_jar</output-path>
+    <root id="archive" name="FP-JAVA-S.jar">
+      <element id="module-output" name="FP-JAVA-S" />
+    </root>
+  </artifact>
+</component>
